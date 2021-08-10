@@ -31,14 +31,14 @@ Get pyrogram (p)  `SESSION` from here:
 ```sh
 # Install Git First (apt-instll git)
 $ git clone https://github.com/Achu2234/YuiMusic-Py-tgcalls
-$ cd DaisyXMusic
+$ cd YuiHirasawaMusicBot
 # Upgrade sources
 # Install All Requirements 
 $ pip3 install -r requirements.txt
 # Rename example.env to local.env and fill
 $ npm i -g npm
 # Start Bot 
-$ python3 -m DaisyXMusic
+$ python3 -m YuiHirasawaMusicBot
 ```
 
 ### Commands for Group 🛠
