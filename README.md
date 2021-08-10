@@ -1,11 +1,7 @@
 <h1 align="centre">
 YuiMusic-Py-tgcalls 🎵</h1> 
-### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-
-<p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
-</p>
+## A bot that can play music on Telegram Group and Channel Voice Chats
+### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
 
 <h2> Features 🔥 </h2>
 
