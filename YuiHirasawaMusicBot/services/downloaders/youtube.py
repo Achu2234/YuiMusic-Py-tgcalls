@@ -8,6 +8,7 @@ from YuiHirasawaMusicBot.helpers.errors import DurationLimitError
 ydl_opts = {
     "format": "bestaudio/best",
     "verbose": True,
+    "addmetadata": True,
     "geo-bypass": True,
     "nocheckcertificate": True,
     "outtmpl": "downloads/%(id)s.%(ext)s",
