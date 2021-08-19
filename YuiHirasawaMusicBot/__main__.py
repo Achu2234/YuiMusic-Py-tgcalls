@@ -1,8 +1,9 @@
 import requests
 from pyrogram import Client as Bot
+from pyrogram import idle
 
 from YuiHirasawaMusicBot.config import API_HASH, API_ID, BG_IMAGE, BOT_TOKEN
-from YuiHirasawaMusicBot.services.callsmusic import run
+from YuiHirasawaMusicBot.services.callsmusic.callsmusic import run
 
 response = requests.get(BG_IMAGE)
 file = open("./etc/foreground.png", "wb")
@@ -19,3 +20,5 @@ bot = Bot(
 
 bot.start()
 run()
+idle()
+© 2021 GitHub, Inc.
